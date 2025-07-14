@@ -1,3 +1,3 @@
 Check the website 😊👇🏻
 
-art-gallery-three-green.vercel.app
+https://art-gallery-three-green.vercel.app/
